@@ -1,5 +1,8 @@
+name: Horacio A. Vega Enríquez
+favicon: null
+layout_spectrum: 0.3216971
+typography_spectrum: 0.82808
 title: 'Strive for progress, not perfection'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1118189860135317
-  brandStrength: 0.6993339613545686
-  rhythmicContrast: 0.3075339321512729
   brandColors:
     - '#ffffff'
     - '#447f91'
     - '#01426c'
     - '#c5cac3'
     - '#000407'
+  brandStrength: 0.6993339613545686
   lightness: 0.9367754685226828
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Horacio A. Vega Enríquez
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.82808
-layout_spectrum: 0.3216971
+  saturation: 0.1118189860135317
+  rhythmicContrast: 0.3075339321512729
+purpose: []
